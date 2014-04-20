@@ -1,4 +1,4 @@
 Scala
 =====
 
-Test Project for Scala
+Test Project for Scala on IntelliJ IDEA
